@@ -30,7 +30,7 @@ Hi, i'm Zach! I'm an aspiring Software Engineer wanting to create innovative sol
 ---   
 
 
-## Stats
+### Stats
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstrowd&hide_progress=true)
        
