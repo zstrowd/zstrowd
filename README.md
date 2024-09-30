@@ -25,9 +25,11 @@ Hi, i'm Zach! I'm an aspiring Software Engineer wanting to create innovative sol
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Npm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-                      
-          
-          
+
+---   
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstrowd)](https://github.com/zstrowd/github-readme-stats)
+       
 <!--
 **zstrowd/zstrowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
