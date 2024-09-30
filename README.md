@@ -28,9 +28,10 @@ Hi, i'm Zach! I'm an aspiring Software Engineer wanting to create innovative sol
 
 
 
-### Stats
+
+### 📈 Stats
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstrowd&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zstrowd&layout=compact)
        
 <!--
 **zstrowd/zstrowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
